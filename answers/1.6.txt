@@ -1,0 +1,4 @@
+docker tag dockerfile xeltop/repository:tag
+docker login
+docker push xeltop/repository:tag
+
